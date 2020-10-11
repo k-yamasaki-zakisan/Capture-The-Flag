@@ -31,6 +31,9 @@ zsh: exec format error: ./exec_me
 cpaw{Do_you_know_ELF_file?}
 ```
 
+## 参考
+https://ecoha0630.hatenablog.com/entry/2016/12/23/122831
+
 
 
 
