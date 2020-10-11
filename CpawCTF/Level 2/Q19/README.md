@@ -10,10 +10,10 @@ file
 
 Mac_OSでとりあえずunzipコマンドを試してみた　→　解凍できた
 
-解凍後のmimetypeというファイル内で「application/vnd.oasis.opendocument.graphics」という記述書発見
+解凍後のmimetypeというファイル内で「application/vnd.oasis.opendocument.graphics」という記述書を発見
 
 ググったらword等で開ける型式らしい事を知った
 
-LibraOfficeにzipファイルを投げ込むと画像ファイルが出現
+そのためLibraOfficeにzipファイルを投げ込むと画像ファイルが出現
 
 黒塗り箇所をドラッグしてflagを取得
