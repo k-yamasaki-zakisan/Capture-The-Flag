@@ -9,7 +9,9 @@ http_traffic.pcap
 
 ## 解答
 ネットワーク パケットの解析とhttp プロトコルのコンテンツ化を求められているためWiresharkを利用
+
 Wiresharkのfile→Exportobjects→HTTPから全てのコンテンツを復元
+
 HTML,css,js,imgが復元でき、元のフォルダ構成に各ファイルを配置してメインページのHTMLをブラウザ表示してボタンクリックするとflagを取得できる
 
 ## 参考
