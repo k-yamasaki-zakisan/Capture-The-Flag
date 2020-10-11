@@ -26,7 +26,10 @@ zsh: segmentation fault  ./a.out
 
 Cのソースを見てみると変換する文字列とkey(数字)がいるらしい
 
-実行ファイル [変換文字列] [数字]で動いた！
+```
+% 実行ファイル [変換文字列] [数字]
+```
+で動いた！
 
 ```
 % ./a.out ruoYced_ehpigniriks_i_llrg_stae 1
