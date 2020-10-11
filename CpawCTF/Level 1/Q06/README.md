@@ -10,5 +10,5 @@ Q6.[Crypto] Classical Cipher
 
 cpaw{Caesar_cipher_is_classical_cipher}
 
-### コード 
+## コード 
 参照：Cipher.py
