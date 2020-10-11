@@ -26,8 +26,7 @@ def main() -> str:
         S = m.read()
         not_love_live = erase_love_live(S)
         flag = get_upper_str(not_love_live)
-        return flag
+        print(flag)
 
 if __name__ == "__main__":
-    result = main()
-    print(result)
+    main()
