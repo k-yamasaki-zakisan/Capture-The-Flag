@@ -17,7 +17,9 @@ exec_me: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked
 
 Mac_OSでは実行できなかったためLinux環境(今回はDebian)を用意する必要があった
 
-実行結果を以下に示す
+実行してflagをゲットした
+
+実行結果の詳細を以下に示す
 
 ### Mac_OS環境
 ```
