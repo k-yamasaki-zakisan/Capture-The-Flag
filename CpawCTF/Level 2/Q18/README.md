@@ -28,4 +28,4 @@ pyhtonのスクリプトを修正してflagを取得
 cpaw{mgrep}
 
 ## コード 
-参照：EraseLoveLive.py
+参照：GetUpperStr.py
