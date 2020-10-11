@@ -19,5 +19,8 @@ Composite Document File V2 Document, Little Endian, Os: Windows, Version 10.0, C
 
 cpaw{Th1s_f1le_c0uld_be_0p3n3d}
 
-参考
+## 参考
+Document File開封方法：
+* https://ja.ojit.com/so/linux/435748
+* https://social.technet.microsoft.com/Forums/en-US/ecc38456-e18a-458b-a093-0223da69c108/what-is-composite-document-file-v2-document?forum=Offtopic
 
