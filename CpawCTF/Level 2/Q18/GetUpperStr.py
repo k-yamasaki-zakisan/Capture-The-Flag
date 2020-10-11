@@ -4,7 +4,7 @@ def erase_love_live(S:str) -> str:
     S = S.replace('lovelive!', '')
     return S
 
-def get_flag(S:str) -> str:
+def get_upper_str(S:str) -> str:
     tmp = []
     #大文字を集める
     for i in range(len(S)):
@@ -25,7 +25,7 @@ def main() -> str:
     with open(path) as m:
         S = m.read()
         not_love_live = erase_love_live(S)
-        flag = get_flag(not_love_live)
+        flag = get_upper_str(not_love_live)
         return flag
 
 if __name__ == "__main__":
