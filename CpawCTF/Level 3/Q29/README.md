@@ -19,4 +19,12 @@ cpaw{復号した値}
 ※復号した値はそのままで良いですが，実は意味があります，余力がある人は考えてみてください.
 
 ##　解答
+よくわからんが調べると上記の情報から平文の導出が可能らしい事を知りpythonでスクリプトを書いて導出
 
+
+## 参考
+平文mをnが同一かつeが異なる公開鍵(n,e1),(n,e2)でそれぞれ暗号化した暗号文c1,c2
+n,e1,e2,c1,c2から平文mを導出することができる攻撃
+* https://blog.akashisn.info/entry/2018/08/07/132209
+Common Modulus Attack
+* https://gist.github.com/horoama/688c94fe629a321284c2b4706c75be98#file-common_modulus_attack-py-L9
