@@ -7,6 +7,7 @@ JPEGという画像ファイルのフォーマットでは、撮影時の日時�
 問題ファイル： river.jpg
 
 FLAGの形式は、"cpaw{river_name}"
+
 例：隅田川 → cpaw{sumidagawa}
 
 ## 解答
