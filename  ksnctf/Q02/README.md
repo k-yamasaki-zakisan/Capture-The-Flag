@@ -16,5 +16,3 @@ vf → is
 ```
 ROT XIII is a simple letter substitution cipher that replaces a letter with the letter XIII letters after it in the alphabet. ROT XIII is an example of the Caesar cipher, developed in ancient Rome. Flag is FLAGSwzgxBJSAMqwxxAU. Insert an underscore immediately after FLAG.
 ```
-
-FLAG_SwzgxBJSAMqwxxAU
