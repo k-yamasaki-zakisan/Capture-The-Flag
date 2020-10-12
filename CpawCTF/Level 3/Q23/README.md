@@ -92,4 +92,5 @@ End of assembler dump.
 
 ## 参考
 gdbコマンドインストール：https://qiita.com/yuzu_afro/items/988020dd65fb4f43962a
+
 答え：https://rightcode.co.jp/blog/information-technology/c-language-gdb-decompile-vernam-cipher-decryption
