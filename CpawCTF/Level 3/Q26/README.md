@@ -2,6 +2,7 @@
 Q26.[PPC]Remainder theorem
 
 x ≡ 32134 (mod 1584891)
+
 x ≡ 193127 (mod 3438478)
 
 x = ?
